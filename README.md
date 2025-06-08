@@ -1,7 +1,3 @@
-Here’s a clear and professional `README.md` for your neural network code:
-
----
-
 # 🧠 Simple Neural Network with NumPy
 
 This project demonstrates how to build **basic feedforward neural networks from scratch** using only NumPy — no machine learning libraries like TensorFlow or PyTorch involved.
@@ -130,6 +126,3 @@ This project is inspired by early neural network tutorials, particularly from:
 
 MIT License — feel free to modify and use for your own learning or projects.
 
----
-
-Let me know if you'd like this split into two separate Python scripts or turned into a Jupyter Notebook!
